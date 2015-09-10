@@ -3,6 +3,7 @@ All sorts of useful plugin for GIMP written by Build-2-Master
 
 ## Installing plugins
 The installation is simple. Just down this repository as a ZIP file. Unpack it and copy the Python file that you need into the folder:
+
 	~/.gimp-{version_num}/plug-ins/  (for Linux)
 
 
@@ -11,6 +12,7 @@ On Windows or other OS, please follow the instructions in this link:
 
 
 On my Ubuntu, I copied the file "insert_center_text.py" into:
+
 	~/.gimp-2.8/plug-ins/ 
 
 
