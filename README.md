@@ -6,9 +6,11 @@ The installation is simple. Just down this repository as a ZIP file. Unpack it a
 
 ~/.gimp-{version_num}/plug-ins/  (for Linux)
 
+
 On Windows or other OS, please follow the instructions in this link:
 
 [https://en.wikibooks.org/wiki/GIMP/Installing_Plugins#Copying_the_plugin_to_the_GIMP_plugin_directory](https://en.wikibooks.org/wiki/GIMP/Installing_Plugins#Copying_the_plugin_to_the_GIMP_plugin_directory)
+
 
 On my Ubuntu, I copied the file "insert_center_text.py" into:
 
@@ -19,8 +21,10 @@ All you need to do then is to open GIMP and you can find this plugin in their ap
 
 ## Functionalities
 Insert Text in the Center of the Image (insert_center_text.py)
-	`Menu Location - Tools/Insert Center Text`
-	`Youtube Video - https://www.youtube.com/watch?v=3QINIIUS2O8`
+
+	Menu Location - Tools/Insert Center Text
+
+	Youtube Video - https://www.youtube.com/watch?v=3QINIIUS2O8
 
 
 
